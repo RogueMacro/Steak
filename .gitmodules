@@ -1,0 +1,3 @@
+[submodule "Steak.Logging"]
+	path = Steak.Logging
+	url = https://github.com/RogueMacro/Steak.Logging
