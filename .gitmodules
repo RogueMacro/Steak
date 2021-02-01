@@ -5,4 +5,3 @@
 [submodule "Steak.DependencyInjection"]
 	path = Steak.DependencyInjection
 	url = https://github.com/RogueMacro/Steak.DependencyInjection
-	branch = main
