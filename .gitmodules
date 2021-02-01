@@ -6,5 +6,3 @@
 	path = Steak.DependencyInjection
 	url = https://github.com/RogueMacro/Steak.DependencyInjection
 	branch = main
-[submodule "Steak.Logginfdsag"]
-	branch = main
