@@ -1,3 +1,6 @@
 [submodule "Steak.Logging"]
 	path = Steak.Logging
 	url = https://github.com/RogueMacro/Steak.Logging
+[submodule "Steak.DependencyInjection"]
+	path = Steak.DependencyInjection
+	url = https://github.com/RogueMacro/Steak.DependencyInjection
